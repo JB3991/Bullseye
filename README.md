@@ -1,2 +1,3 @@
 # Bullseye
-Guess the score 
+
+Get as close as you can 
